@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30503.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Rotation", "Rotation\Rotation.vcxproj", "{8FDCC570-93B6-4C74-ABAD-E4F04680F80B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8FDCC570-93B6-4C74-ABAD-E4F04680F80B}.Debug|x64.ActiveCfg = Debug|x64
+		{8FDCC570-93B6-4C74-ABAD-E4F04680F80B}.Debug|x64.Build.0 = Debug|x64
+		{8FDCC570-93B6-4C74-ABAD-E4F04680F80B}.Debug|x86.ActiveCfg = Debug|Win32
+		{8FDCC570-93B6-4C74-ABAD-E4F04680F80B}.Debug|x86.Build.0 = Debug|Win32
+		{8FDCC570-93B6-4C74-ABAD-E4F04680F80B}.Release|x64.ActiveCfg = Release|x64
+		{8FDCC570-93B6-4C74-ABAD-E4F04680F80B}.Release|x64.Build.0 = Release|x64
+		{8FDCC570-93B6-4C74-ABAD-E4F04680F80B}.Release|x86.ActiveCfg = Release|Win32
+		{8FDCC570-93B6-4C74-ABAD-E4F04680F80B}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E2A54BDD-A8EB-4A67-B9C7-DABA51551CC8}
+	EndGlobalSection
+EndGlobal
